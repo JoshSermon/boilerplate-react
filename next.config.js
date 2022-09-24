@@ -31,3 +31,13 @@ module.exports = {
     return config
   },
 }
+
+// module.exports = {
+// config.module.rules.push(
+//   {
+//     test: /\.s(a|c)ss$/,
+//     use: ['babel-loader',
+//       { loader: 'sass-loader' },
+//     ],
+//   },
+// )};
