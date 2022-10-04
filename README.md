@@ -1,6 +1,4 @@
-## README Boilerplate - React and Typescript
-
-# This is a my boilerplate for React.js. Will make more improvements in the future to make it more efficient. 
+# README Boilerplate - React and Typescript
 
 ## Setup
 
@@ -26,3 +24,5 @@ npm run dev
 
 ## Unit Testing 
 - Jest
+
+## This is a my boilerplate for React.js. Will make more improvements in the future to make it more efficient. 
