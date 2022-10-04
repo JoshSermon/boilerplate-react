@@ -25,4 +25,8 @@ npm run dev
 ## Unit Testing 
 - Jest
 
+## NVM Version
+- [Node Version Manager] (https://github.com/nvm-sh/nvm)
+- node v18.10.0
+
 ## This is a my boilerplate for React.js. Will make more improvements in the future to make it more efficient. 
