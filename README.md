@@ -1,6 +1,6 @@
 ## README Boilerplate - React and Typescript
 
-## This is a my boilerplate for React.js. Will make more improvements in the future to make it more efficient. 
+# This is a my boilerplate for React.js. Will make more improvements in the future to make it more efficient. 
 
 ## Setup
 
